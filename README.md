@@ -28,7 +28,6 @@ HTML, CSS (Frontend Design)
 
 /Customer-Segmentation
 │── app.py                # Flask application
-│── kmeans.pkl            # Saved K-Means model
 │── /templates            # HTML templates
 │   │── index.html        # File upload page
 │   │── result.html       # Results page
@@ -37,8 +36,6 @@ HTML, CSS (Frontend Design)
 │   │── bar_chart.png     # Cluster visualization
 │   │── pie_chart.png     # Cluster distribution
 │── /uploads              # Folder for uploaded files
-│── /output               # Folder for processed CSV files
-│── requirements.txt      # Required dependencies
 │── README.md             # Project documentation
 
 📥 Installation & Setup
