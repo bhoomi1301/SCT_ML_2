@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clustering Results</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Clustering Results for {{ filename }}</h2>
+    <img src="/static/bar_chart.png" width="600">
+    <img src="/static/pie_chart.png" width="600">
+    <br>
+    <a href="/download">Download Clustered Data</a>
+</body>
+</html>
