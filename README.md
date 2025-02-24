@@ -1,4 +1,4 @@
-Customer Segmentation using K-Means Clustering
+# **Customer Segmentation using K-Means Clustering**
 
 This project implements customer segmentation using the K-Means clustering algorithm on retail store customer data. The Flask web application allows users to upload a dataset, perform clustering, and visualize the results.
 
